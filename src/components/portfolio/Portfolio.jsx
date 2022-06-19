@@ -22,7 +22,7 @@ const Portfolio = () => {
           <a href='' className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
         </article>
-        <article className='portfolio__item'>
+        {/* <article className='portfolio__item'>
           <div className="portfolio__item-image">
             <img src={IMG2} alt="" />
           </div>
@@ -41,7 +41,7 @@ const Portfolio = () => {
           <a href="https://github.com/fadhlur497/miniprojectbacth17_reactjs/tree/main/src/views/app/job" className='btn' target='_blank'>GitHub</a>
           <a href='' className='btn btn-primary' target='_blank'>Live Demo</a>
           </div>
-        </article>
+        </article> */}
         <article className='portfolio__item'>
           <div className="portfolio__item-image">
             <img src={IMG4} alt="" />
